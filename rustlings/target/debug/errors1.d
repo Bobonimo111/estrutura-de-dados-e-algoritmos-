@@ -1,0 +1,1 @@
+C:\Users\william.rodrigues\Desktop\Projetos\ pessoais\estrutura-de-dados-e-algoritmos-\rustlings\target\debug\errors1.exe: C:\Users\william.rodrigues\Desktop\Projetos\ pessoais\estrutura-de-dados-e-algoritmos-\rustlings\exercises\13_error_handling\errors1.rs

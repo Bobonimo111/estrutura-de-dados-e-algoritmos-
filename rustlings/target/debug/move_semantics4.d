@@ -1,0 +1,1 @@
+C:\Users\william.rodrigues\Desktop\Projetos\ pessoais\estrutura-de-dados-e-algoritmos-\rustlings\target\debug\move_semantics4.exe: C:\Users\william.rodrigues\Desktop\Projetos\ pessoais\estrutura-de-dados-e-algoritmos-\rustlings\exercises\06_move_semantics\move_semantics4.rs
