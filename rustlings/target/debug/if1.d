@@ -1,0 +1,1 @@
+C:\Users\william.rodrigues\Desktop\Projetos\ pessoais\estrutura-de-dados-e-algoritmos-\rustlings\target\debug\if1.exe: C:\Users\william.rodrigues\Desktop\Projetos\ pessoais\estrutura-de-dados-e-algoritmos-\rustlings\exercises\03_if\if1.rs

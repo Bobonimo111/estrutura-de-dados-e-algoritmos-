@@ -28,10 +28,19 @@ mod my_module {
 
     // TODO: Complete the function as described above.
     // pub fn transformer(input: ???) -> ??? { ??? }
+    
+    pub fn transform(str : &str, com : Command)-> &str{
+        
+    }
 }
 
 fn main() {
     // You can optionally experiment here.
+    Enum Com{
+        Ola,
+        Mundo
+    }
+    println(Com::Ola);
 }
 
 #[cfg(test)]
